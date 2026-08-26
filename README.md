@@ -1,3 +1,5 @@
 # apanacollege-demo-
 This is my first repo
-Rushi Don
+Rushi Don 
+
+This is the main repo
